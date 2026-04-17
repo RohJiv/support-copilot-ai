@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+chroma_db/
+*.db
+.streamlit/secrets.toml
+business.db
+ai_env/
